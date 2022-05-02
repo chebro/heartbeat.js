@@ -31,7 +31,7 @@
 		"asciichart": "^1.5.25",
 		"dotenv": "^10.0.0",
 		"ejs": "^3.1.6",
-		"express": "^4.17.1"
+		"express": "^4.18.1"
 	},
 	"simple-git-hooks": {
 		"pre-commit": "npx pretty-quick --staged"
